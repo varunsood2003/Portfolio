@@ -11,7 +11,7 @@
       font-family: sans-serif;
       color: #293d4c;
   }
-  @media screen and (min-width: 480px) {
+  @media screen and (min-width:600px) {
     .text {
       font-size: 44px;
     }
